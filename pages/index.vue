@@ -82,7 +82,7 @@
         </div>
       </div>
   </div>
-  <p class="bot-footer">COPYRIGHT © 2022 — DESIGN NAUVAL — SLICING ARIE </p>
+  <p class="bot-footer">COPYRIGHT © 2022 — DESIGN NAUVAL — SLICING ARIE</p>
 </div>
 </template>
   
