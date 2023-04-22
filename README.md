@@ -2,8 +2,8 @@
 
 This is a sample landing page for the website HiveMed with an updated code that allows successful log-in and sign-up. It can also collect authentication cookies and delete them upon logout.
 
-The database server used for the log-in credentials can be viewed from this repository: 
-https://github.com/rmarasiganjr/demo-express-server.git
+The database server used for the log-in credentials can be viewed from this <a href = "https://github.com/rmarasiganjr/demo-express-server.git">repository</a>.
+
 
 
 
