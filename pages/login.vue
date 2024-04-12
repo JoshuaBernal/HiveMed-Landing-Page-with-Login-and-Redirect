@@ -101,7 +101,6 @@
                       
                   } else {
                       console.error('Login failed:', data);
-
                   }
               } catch (error) {
                   console.error('Login failed:', error.message);
